@@ -29,8 +29,8 @@ List<Ordenador> lista=(List<Ordenador>) request.getAttribute("lista");%>
 		<table class="table table-striped table-hover">
 			<thead>
 				<tr class="table-danger">
-					<th><a href="?orden=marca">Marca</th>
-					<th><a href="?orden=precio">Precio</th>
+					<th>Marca</th>
+					<th>Precio</th>
 				</tr>
 			</thead>
 			<%

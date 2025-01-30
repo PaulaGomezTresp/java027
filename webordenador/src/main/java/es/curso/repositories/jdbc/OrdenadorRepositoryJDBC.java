@@ -13,7 +13,7 @@ import es.curso.repositories.OrdenadorRepository;
 
 public class OrdenadorRepositoryJDBC implements OrdenadorRepository{
 	
-	static final String DB_URL="jdbc:mysql://localhost:3306/biblioteca";
+	static final String DB_URL="jdbc:mysql://localhost:3306/bibliotecacie";
 	static final String USER="root";
 	static final String PASS="";
 
